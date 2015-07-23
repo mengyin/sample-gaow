@@ -1,4 +1,5 @@
 # This is Mengyin's idea!
+# Gao has contributed nothing but a warm support!
 args <- strtoi(commandArgs(TRUE))
 
 square <- function(x) {
