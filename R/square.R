@@ -1,5 +1,4 @@
-%11
-
+# This is Mengyin's idea!
 args <- strtoi(commandArgs(TRUE))
 
 square <- function(x) {
